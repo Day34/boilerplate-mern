@@ -1,0 +1,8 @@
+[submodule "web-server"]
+	path = web-server
+	url = https://github.com/Day34/boilerplate-mern-web-server.git
+	branch = master
+[submodule "web-client"]
+	path = web-client
+	url = https://github.com/Day34/boilerplate-mern-web-client.git
+	branch = master
